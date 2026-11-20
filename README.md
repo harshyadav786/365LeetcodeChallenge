@@ -5,4 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/harshyadav786/365LeetcodeChallenge/tree/master/0263-ugly-number) |
+## Array
+|  |
+| ------- |
+| [2733-neither-minimum-nor-maximum](https://github.com/harshyadav786/365LeetcodeChallenge/tree/master/2733-neither-minimum-nor-maximum) |
+## Sorting
+|  |
+| ------- |
+| [2733-neither-minimum-nor-maximum](https://github.com/harshyadav786/365LeetcodeChallenge/tree/master/2733-neither-minimum-nor-maximum) |
 <!---LeetCode Topics End-->
